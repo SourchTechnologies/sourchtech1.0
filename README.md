@@ -1,2 +1,2 @@
 # sourchtech1.0
-this is the first website i created
+This was the first website i created
